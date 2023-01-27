@@ -13,6 +13,12 @@
     - [Parámetros y estadísticos](#parámetros-y-estadísticos)
       - [Parámetro](#parámetro)
       - [Estadístico](#estadístico)
+    - [Concepto de variable](#concepto-de-variable)
+      - [Variable cualitativa o atributo](#variable-cualitativa-o-atributo)
+      - [Variable ordinal](#variable-ordinal)
+      - [Variable cuantitativa](#variable-cuantitativa)
+        - [Variable cuantitativa discreta](#variable-cuantitativa-discreta)
+        - [Variable cuantitativa continua](#variable-cuantitativa-continua)
 
 ## Conceptos básicos de Estadística
 
@@ -85,3 +91,47 @@ Podemos obtener distintos tipos de estadísticos:
 - De forma: `sesgos` y `curtosis`.
 
 > En conclusión: el estadístico es lo que medimos en la muestra; el parámetro no lo conocemos, lo estimamos para la población a partir del estadístico y no tiene porqué coincidir, puede variar en función del error que aceptemos y del porcentaje de probabilidad con que trabajemos.
+
+### Concepto de variable
+
+La variable es aquello que nos interesa medir en los individuos.
+
+Por ejemplo, los niveles de estrógenos en la primera fase del ciclo ovárico sería una variable, los niveles de estrógenos en la segunda fase del ciclo sería otra variable, etc.
+
+#### Variable cualitativa o atributo
+
+Representa una cualidad y, en principio, no pueden cuantificarse, ya que no toman valores numéricos.
+
+Admiten operadores de igualdad o desigualdad (`=`, `≠`).
+
+Ejemplo: etnia de las mujeres de edad fértil de ejemplos anteriores, profesión, etc.
+
+#### Variable ordinal
+
+Representa relaciones de orden entre los distintos valores obtenidos.
+
+Admite operadores de igualdad, desigualdad y de orden (`=`, `≠`, `‹`, `›`, `≤`, `≥`).
+
+Ejemplo: grado de satisfacción en la atención en consulta ginecológica.
+
+#### Variable cuantitativa
+
+Toman valores numéricos, y se acompañan de determinadas unidades de medida.
+
+Admite diversos operadores: `=`, `≠`, `‹`, `›`, `≤`, `≥`, `+`, `x`, `:`.
+
+Ejemplo: concentración de colesterol en $mg/dl$.
+
+Las variables cuantitativas pueden ser discretas o continuas.
+
+##### Variable cuantitativa discreta
+
+Se caracterizan porque entre dos valores consecutivos no podemos encontrar ningún otro valor (corresponden a valores naturales).
+
+Ejemplo: nº de hijos, etc. (no existen $1.2$ o $3.4$ hijos)
+
+##### Variable cuantitativa continua
+
+Se caracterizan porque entre dos valores continuos podemos encontrar infinitos valores (corresponden a números reales).
+
+Ejemplo: peso :pig:( entre $60$ y $61 kg$: $60.1, 60.2, 60.3... kg$), talla :straight_ruler:(entre $1.69$ y $1.70 m$: $1.691, 1.692, 1.693... m$.), etc.
