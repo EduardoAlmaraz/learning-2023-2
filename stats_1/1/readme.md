@@ -19,6 +19,8 @@
       - [Variable cuantitativa](#variable-cuantitativa)
         - [Variable cuantitativa discreta](#variable-cuantitativa-discreta)
         - [Variable cuantitativa continua](#variable-cuantitativa-continua)
+  - [Anexos](#anexos)
+    - [Formulario](#formulario)
 
 ## Conceptos básicos de Estadística
 
@@ -135,3 +137,12 @@ Ejemplo: nº de hijos, etc. (no existen $1.2$ o $3.4$ hijos)
 Se caracterizan porque entre dos valores continuos podemos encontrar infinitos valores (corresponden a números reales).
 
 Ejemplo: peso :pig:( entre $60$ y $61 kg$: $60.1, 60.2, 60.3... kg$), talla :straight_ruler:(entre $1.69$ y $1.70 m$: $1.691, 1.692, 1.693... m$.), etc.
+
+## Anexos
+
+### Formulario
+
+|Objetivo|Fórmula|Descripción|Ejemplo|
+|-|-|-|-|
+|Sumatoria|$Y = {{y_{1}+y_{2}+y_{3}+\cdots+y_{n}}} = {\sum_{i=1}^{n} y_{i}}$|Tiene como objetivo sumar todos los elementos del conjunto|En un grupo de alumnos de obtienen las siguientes calificaciones en el primer parcial: $10, 9, 8, 10, 8, 8, 8, 9$. Aplucando la fórmula la suma de estas calificaciones es: $Y = 10+9+8+10+8+8+8+9 = 70$|
+|Promedio|$\overline{Y} = {{y_{1}+y_{2}+y_{3}+\cdots+y_{n}}\over {n}} = {\sum_{i=1}^{n} y_{i}\over n}$|Tiene la finalidad de encontrar el promedio de los valores dados, es decir la sumatoria entre el número de elementos.|Tomando el ejemplo de las calificaciones, sólo bastaría que dividir el resultado de la sumatoria y dividirlo entre las 8 calificaciones: $\overline{Y} = {70\over {8}} = 8.75$ el promedio del grupo en el primer parcial.|
