@@ -71,7 +71,9 @@ Los puntos situados en la misma línea horizontal (paralela al eje de abscisas) 
 
 Los puntos situados en una misma línea vertical (paralela al eje de ordenadas) tienen la **misma abscisa**.
 
-$A(1, 4), B(-3, 2), C(0, 5), D(-4, -4), E(-5, 0), F(4, -3), G(4, 0), H(0, -2)$
+$A(1, 4), B(-3, 2), C(0, 5), D(-4, -4),$
+
+$E(-5, 0), F(4, -3), G(4, 0), H(0, -2)$
 
 ![Explicaciones y ejemplos de sistema de coordenadas cartesianas en el plano - 9](img/sistema-de-coordenadas-cartesianas-en-el-plano-9.gif)
 
