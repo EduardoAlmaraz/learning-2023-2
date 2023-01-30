@@ -25,7 +25,7 @@
 
 Los ángulos se miden en grados (`°`) y según su medida se clasifican en:
 
-1. Nulo: es aquel que mide $0°$. Las semirectas que forman los ángulos coinciden.
+1. **Nulo**: es aquel que mide $0°$. Las semirectas que forman los ángulos coinciden.
 
     ![ac1](img/angulos-0.gif)
 
