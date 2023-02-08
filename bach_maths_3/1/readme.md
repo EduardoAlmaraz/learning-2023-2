@@ -90,7 +90,7 @@ Una **función lineal** es aquella cuya expresión algebraica es del tipo $y = m
 |$y=2x$|$y=-2x$|
 |![creciente](img/creciente.png)|![decreciente](img/decreciente.png)|
 
-Ejemplos: 
+Ejemplos:
 
 1. Vamos a representar gráficamente la función lineal $y = 2x$.
 
