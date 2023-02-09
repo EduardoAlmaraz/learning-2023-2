@@ -9,7 +9,6 @@ $$f(x)={{5}\over{x^2}}$$
 ### Dominio
 
 Para obtener el dominio $D$, se iguala a $0$ el denominador y se resuelve $x$.
-
 $$x^2=0$$
 $$x=\sqrt{0}$$
 $$x=0$$
@@ -28,12 +27,14 @@ que se lee: *"equis petenece a los reales a excepción del cero"*
 
 ### Rango
 
-Para la obtención del rango, se debe despejar a y:
+Para la obtención del rango, se debe despejar a $y$:
 
 $$y={5\over{x^2}}$$
-$$\therefore$$
+
 $$x^2y=5$$
+
 $$x^2={5\over{y}}$$
+
 $$x=\sqrt{5 \over y}$$
 
 En este caso, sabemos 2 cosas:
