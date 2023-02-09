@@ -22,7 +22,7 @@ Gráficamente podemos observarlo como sigue:
 Por tanto podemos decir que el dominio es desde el $-\infty$ hasta el $+\infty$ sin tocar el $0$ que se denota:
 $$D=(-\infty,0)\cup(0,+\infty)$$
 o también como:
-$${\{x \in \Reals : x\ne0\}}$$
+$${\{x \in \reals : x\ne0\}}$$
 
 que se lee: *"equis petenece a los reales a excepción del cero"*
 
@@ -46,12 +46,12 @@ En este caso, sabemos 2 cosas:
 Finalmente, como $y$ sólo puede ser mayor a $0$ ese será el rango
 $$R=(0,+\infty)$$
 O también
-$${\{y \in \Reals : y>0\}}$$
+$${\{y \in \reals : y>0\}}$$
 que se lee: *"ye petenece a los reales siempre y cuando sea mayor que cero"*
 
 ## Límites de una función
 
-Tomando como ejemplo la función de rango y dominio.
+Tomando como ejemplo la función
 $$f(x)={{5}\over{x^2-4}}$$
 
 Para que tenga sentido la obtención de un límite, es necesario saber en qué puntos se vuelve interesante, de lo contrario sólo sería una sustitución.
