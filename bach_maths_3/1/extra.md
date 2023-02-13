@@ -1,6 +1,6 @@
 # Funciones lineales (Actividad extra)
 
-Realiza la tabla para las siguientes funciones desde $-5$ hasta $5$ y grafícalas.
+Realiza la tabla para las siguientes funciones desde $-4$ hasta $4$ y grafícalas.
 
 |$x$|$y$|
 |-|-|
