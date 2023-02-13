@@ -20,4 +20,4 @@ Realiza la tabla para las siguientes funciones desde $-5$ hasta $5$ y grafícala
 
 3. $y = 8x + 2x – 6$
 
-Puedes ver el video en [Youtube](https://youtu.be/AoZpzAoC1Qg) para guiarte.
+Puedes ver el video en :tv:[Youtube](https://youtu.be/AoZpzAoC1Qg) para guiarte.
