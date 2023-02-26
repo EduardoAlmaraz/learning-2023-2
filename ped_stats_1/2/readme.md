@@ -65,7 +65,7 @@ Al inicio de este documento, te explicamos que la **frecuencia relativa** se exp
 
     ¡Continuemos con la tabla de frecuencias del salón de clases! Añade una cuarta columna con el nombre **frecuencia relativa**. Toma cada dato de la **frecuencia absoluta** y divídelo entre $20$, que es la cantidad de datos totales que tienes. Así:
 
-    $$ 0 ÷ 20 = 0$$
+    $$0 ÷ 20 = 0$$
     $$2 ÷ 20 = 0,1$$
     $$1 ÷ 20 = 0,05$$
 
