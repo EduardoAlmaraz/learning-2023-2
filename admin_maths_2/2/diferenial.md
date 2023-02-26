@@ -50,7 +50,7 @@
 
 5. La derivada de una suma o resta de funciones es igual a la suma o resta de las derivadas.
 
-   $${{d}\over{dx}}[f(x)\plusmn{g(x)}]=f'(x)\plusmn{g(x)}$$
+   $${{d}\over{dx}}[f(x)(+/-){g(x)}]=f'(x)(+/-){g(x)}$$
 
    Ejemplo: $p(x)=3x^2+5x$
 
