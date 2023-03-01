@@ -127,7 +127,7 @@ A continuación vamos a ver un ejemplo de cómo se calcula la pendiente de una r
 
     Para hallar la pendiente de esta recta, simplemente se debe aplicar su fórmula:
 
-    $$m = \cfrac{\Delta y}{\Delta x} = \cfrac{y_2-y_1}{x_2-x_1}=\cfrac{7-1}{5-3}=\cfrac{6}{2} = \bm{3}$$
+    $$m = \cfrac{\Delta y}{\Delta x} = \cfrac{y_2-y_1}{x_2-x_1}=\cfrac{7-1}{5-3}=\cfrac{6}{2} = 3$$
 
     Por tanto, la pendiente de la recta es igual a $3$.
 
@@ -139,7 +139,7 @@ En el apartado de arriba acabamos de ver cómo determinar la pendiente de una re
 
 La ecuación explícita de la recta sigue la siguiente expresión:
 
-$$y =\color{blue}\bm{m}\color{red}x+n$$
+$$y =\color{blue}m\color{red}x+n$$
 
 Entonces, el parámetro $m$ corresponde a la **pendiente de la recta**.
 
@@ -147,7 +147,7 @@ Entonces, el parámetro $m$ corresponde a la **pendiente de la recta**.
 
 La fórmula de la ecuación punto-pendiente de la recta es la siguiente:
 
-$$y -y_0=\color{blue}\bm{m}\color{red}(x-x_0)$$
+$$y -y_0=\color{blue}m\color{red}(x-x_0)$$
 
 Igual que antes, el coeficiente $m$ corresponde a la pendiente de la recta.
 
