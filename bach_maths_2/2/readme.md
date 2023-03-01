@@ -63,11 +63,17 @@ $${{180°(n-2)}\over{n}}+A_{ext}=180°$$
 Resolvemos:
 
 $$A_{ext}=180°-{{180°(n-2)}\over{n}}$$
+
 $$A_{ext}=180°[1-{{(n-2)}\over{n}}]$$
+
 $$A_{ext}=180°[1-({{n}\over{n}}-{{2}\over{n}})]$$
+
 $$A_{ext}=180°[1-(1-{{2}\over{n}})]$$
+
 $$A_{ext}=180°(1-1+{{2}\over{n}})$$
+
 $$A_{ext}=180°({{2}\over{n}})$$
+
 $$A_{ext}={{360°}\over{n}}$$
 
 :bomb: Les evito la pena de utilizar la fórmula larga y con esta pueden obtener el ángulo externo:bomb:
