@@ -126,7 +126,7 @@
    $$={{4x^2+2x-2x^2+6}\over{(2x+1)^2}}$$
    $$={{2x^2+2x+6}\over{(2x+1)^2}}$$
 
-8. Derivada de una función contenida en otra dunción.
+8. Derivada de una función contenida en otra función.
    $${{d}\over{dx}}f(g(x))=f'(g(x))g'(x)$$
    (Regla de la cadena)
 
