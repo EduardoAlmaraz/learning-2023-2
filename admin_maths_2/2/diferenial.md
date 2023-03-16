@@ -70,9 +70,9 @@
 
     Finalmente aplicar la fórmula 3 para solucionar.
 
-    $$=3(3x^{2-1})+5(1x^{1-1})$$
-    $$=6x^{1}-5x^{0}$$
-    $$=6x-5$$
+    $$=3(2x^{2-1})+5(1x^{1-1})$$
+    $$=6x^{1}+5x^{0}$$
+    $$=6x+5$$
 
 6. Derivada del producto de 2 funciones es igual a la suma de los conjugados de las funciones y sus derivadas.
 
